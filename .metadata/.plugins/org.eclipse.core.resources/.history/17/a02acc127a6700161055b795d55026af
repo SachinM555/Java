@@ -1,0 +1,9 @@
+package mySPK;
+
+public class SPK {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

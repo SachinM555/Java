@@ -1,0 +1,12 @@
+package mySPK;
+
+public class SPK {
+	
+	public static void main(String[] args) {
+		
+		System.out.println("SPK");
+		//System.out.println("SPK");
+		
+	}
+
+}
